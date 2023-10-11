@@ -1,3 +1,22 @@
 h {
   font-family: "Young Serif", serif;
+  color: #212121;
+}
+
+p,
+li,
+figcaption,
+a {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #1b4a86;
+}
+
+body {
+  background-color: #fffdd1;
+}
+
+.foodpic {
+  width: 600px;
+  height: auto;
 }
